@@ -11,7 +11,7 @@
 
 
 # 💫 About Me :
-🌱 I’m currently learning new Full Stack Web Developer skills
+🌱 I’m currently learning Full Stack Web Developer skills
 
 🔭 Every day in search of improvement and constant growth
 
